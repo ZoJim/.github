@@ -14,7 +14,6 @@
 - [🛠️ 기술 스택](#기술-스택)
     - [Frontend](#Frontend)
     - [Backend](#Backend)
-- [📂 프로젝트 구조](#프로젝트-구조)
 - [📄 API 명세서](#API-명세서)
 - [📊 ERD](#ERD)
 - [🚀 프로젝트 실행 방법](#프로젝트-실행-방법)
@@ -36,14 +35,55 @@
 ## 🛠️ 기술 스택
 
 ### Frontend
-- **Next.js** : React 기반의 프레임워크로 서버 사이드 렌더링과 정적 사이트 생성을 지원합니다.
-- **TypeScript** : 정적 타입 체크를 제공하는 JavaScript의 상위 집합.
-- **MUI (Material UI)** : React용 UI 컴포넌트 라이브러리로, 사용자 친화적인 디자인을 제공합니다.
+- **Next.js v15.0.4** 
+- **TypeScript v5.7.2**
+- **MUI (Material UI)**
 
 ### Backend
-- **Java 21** : 최신 Java 버전으로 안정적이고 효율적인 서버 구축.
-- **Spring Boot** : Java 기반의 웹 애플리케이션 프레임워크로 빠른 개발을 지원합니다.
-- **Spring Security** : 인증 및 권한 제어를 위한 보안 프레임워크.
-- **JPA** : Java Persistence API를 이용한 데이터베이스 연동.
-- **MySQL** : 관계형 데이터베이스 관리 시스템.
-- **AWS S3** : 이미지 및 파일 저장을 위한 클라우드 스토리지 서비스.
+- **Java 17** 
+- **Spring Boot v3.4.0**
+- **Gradle 7.5 이상**
+- **Spring Security & JWT** 
+- **Spring Data JPA** 
+- **PostgreSQL** 
+- **AWS S3** 
+
+## 📄 API 명세서
+[API 명세서](https://bubble-pick-143.notion.site/API-15641de2210c80f3a1c6cf678f8129a6)
+
+## 📊 ERD
+![스크린샷 2024-12-08 오후 6 36 22](https://github.com/user-attachments/assets/0bce5f1f-c387-4cc2-bf1c-6045cd425056)
+
+
+## 🚀 프로젝트 실행 방법
+### FrontEnd
+```
+git clone https://github.com/ZoJim/Boogakcong-FE.git
+```
+
+``` 
+yarn install
+yarn dev
+```
+
+### Backend
+
+`/resources/application.yml`에 키값 정보를 채우고, PostgreSQL의 host, password를 알맞게 설정합니다.
+
+설정된 프로그램 기준
+```
+url: jdbc:postgresql://localhost:5432/postgres
+username: postgres
+password: 123456
+```
+
+```
+git clone https://github.com/ZoJim/Boogakcong-BE.git
+```
+
+```
+./gradlew build
+./gradlew bootRun
+```
+
+## 🔒 보안 설정
