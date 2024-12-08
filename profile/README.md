@@ -38,6 +38,7 @@
 - **Next.js v15.0.4** 
 - **TypeScript v5.7.2**
 - **MUI (Material UI)**
+- **Jotai**
 
 ### Backend
 - **Java 17** 
@@ -87,3 +88,32 @@ git clone https://github.com/ZoJim/Boogakcong-BE.git
 ```
 
 ## 🔒 보안 설정
+Boogakcong은 Spring Security와 JWT를 사용하여 인증 및 권한 관리를 제공합니다. 백엔드는 JWT로 사용자 인증을 처리하며, 프론트엔드는 Jotai와 LocalStorage를 활용하여 사용자 상태를 관리합니다. 또한, CORS 정책을 통해 안전한 API 접근을 보장하며, 민감한 설정 값은 환경 변수로 관리됩니다.
+
+
+## 👥 기여자
+
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="200px">
+      <a href="https://github.com/stopmin" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/108014449?v=4" width="100px" alt="정지민 프로필" />
+      </a>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/suyoungee" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/105601298?v=4" width="100px" alt="조수영 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/stopmin" target="_blank">정지민</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/suyoungee" target="_blank">조수영</a>
+    </td>
+  </tr>
+</table>
+</div>
