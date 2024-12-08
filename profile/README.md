@@ -49,6 +49,129 @@
 - **PostgreSQL** 
 - **AWS S3** 
 
+
+## 📸 프로젝트 주요 화면
+
+## 📸 프로젝트 주요 화면
+
+**⚠️ 모든 페이지는 아이폰 X12 해상도에 최적화되어 있습니다. 개발자 모드에서 해당 기기 해상도로 확인하시는 것을 권장합니다.**
+
+---
+
+### 로그인 및 회원가입
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <strong>로그인 페이지</strong><br>
+      <img src="https://github.com/user-attachments/assets/9289c2a1-d17e-4cd5-a7d5-37d32cc13e69" width="300px" alt="로그인 페이지" />
+    </td>
+    <td align="center" width="300px">
+      <strong>회원가입 페이지</strong><br>
+      <img src="https://github.com/user-attachments/assets/03db80ed-623e-46f4-bb02-995518dddcbd" width="300px" alt="회원가입 페이지" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 카페
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <strong>카페 리스트 조회</strong><br>
+      <img src="https://github.com/user-attachments/assets/ae90b1fb-ead4-4656-a350-c986c96b5837" width="300px" alt="카페 리스트 조회" />
+    </td>
+    <td align="center" width="300px">
+      <strong>카페 단건 조회</strong><br>
+      <img src="https://github.com/user-attachments/assets/34d1f8aa-02e0-4885-87e6-8c07beba44c2" width="300px" alt="카페 단건 조회" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 게시판
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <strong>게시판 리스트 조회</strong><br>
+      <img src="https://github.com/user-attachments/assets/6825f10b-9fa7-456b-9c9c-ea690ec595be" width="300px" alt="게시판 리스트 조회" />
+    </td>
+    <td align="center" width="300px">
+      <strong>게시판 글 단건 조회</strong><br>
+      <img src="https://github.com/user-attachments/assets/9b824634-6e28-42ce-9c76-fb97e3dedf90" width="300px" alt="게시판 글 단건 조회" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>게시글 작성</strong><br>
+      <img src="https://github.com/user-attachments/assets/275c7a4f-3557-4510-aa2c-5f5ac8fcef1a" width="300px" alt="게시글 작성" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 마이페이지
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="300px">
+      <strong>마이페이지 메인</strong><br>
+      <img src="https://github.com/user-attachments/assets/f3675f60-9dd8-418a-a30c-2a64a7531b3a" width="300px" alt="마이페이지 메인" />
+    </td>
+    <td align="center" width="300px">
+      <strong>내 카페 등록</strong><br>
+      <img src="https://github.com/user-attachments/assets/cea4e260-4476-40a5-9444-a3c9055be912" width="300px" alt="내 카페 등록" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>내 카페 관리</strong><br>
+      <img src="https://github.com/user-attachments/assets/39b5de79-5d02-4e6f-96a2-6d664436efe7" width="300px" alt="내 카페 관리" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 커뮤니티 관리자
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="900px">
+      <strong>커뮤니티 관리자 콘솔</strong><br>
+      <img src="https://github.com/user-attachments/assets/ebeb0d57-7fd0-4a31-a16d-dada38a009ab" width="900px" alt="커뮤니티 관리자 콘솔" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 운영 관리자
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="900px">
+      <strong>운영 관리자 콘솔</strong><br>
+      <img src="https://github.com/user-attachments/assets/3b2a4464-fd25-4ac7-adc7-73f824cc5172" width="900px" alt="운영 관리자 콘솔" />
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
 ## 📄 API 명세서
 [API 명세서](https://bubble-pick-143.notion.site/API-15641de2210c80f3a1c6cf678f8129a6)
 
