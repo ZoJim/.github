@@ -130,9 +130,13 @@
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="300px">
       <strong>내 카페 관리</strong><br>
       <img src="https://github.com/user-attachments/assets/39b5de79-5d02-4e6f-96a2-6d664436efe7" width="300px" alt="내 카페 관리" />
+    </td> 
+      <td align="center" width="300px">
+      <strong>내 카페 삭제 요청</strong><br>
+      <img src="https://github.com/user-attachments/assets/f31da2fe-284c-4cd5-89f1-c3ef0e8062b2" width="300px" alt="내 카페 삭제 요청" />
     </td>
   </tr>
 </table>
