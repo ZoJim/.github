@@ -11,6 +11,7 @@
 <summary>📑 목차</summary>
 
 - [📌 프로젝트 소개](#프로젝트-소개)
+- [📸 프로젝트 주요 화면](#프로젝트-주요-화면)
 - [🛠️ 기술 스택](#기술-스택)
     - [Frontend](#Frontend)
     - [Backend](#Backend)
@@ -48,9 +49,6 @@
 - **Spring Data JPA** 
 - **PostgreSQL** 
 - **AWS S3** 
-
-
-## 📸 프로젝트 주요 화면
 
 ## 📸 프로젝트 주요 화면
 
