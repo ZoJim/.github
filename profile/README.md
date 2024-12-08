@@ -62,7 +62,7 @@
   <tr>
     <td align="center" width="300px">
       <strong>로그인 페이지</strong><br>
-      <img src="https://github.com/user-attachments/assets/9289c2a1-d17e-4cd5-a7d5-37d32cc13e69" width="300px" alt="로그인 페이지" />
+      <img src="https://github.com/user-attachments/assets/4a9c516b-7aa1-4e88-8900-c3d4c8ada34b" width="300px" alt="로그인 페이지" />
     </td>
     <td align="center" width="300px">
       <strong>회원가입 페이지</strong><br>
